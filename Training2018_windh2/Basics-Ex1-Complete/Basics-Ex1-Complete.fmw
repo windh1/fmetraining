@@ -1,7 +1,7 @@
 #! <?xml version="1.0" encoding="UTF-8" ?>
 #! <WORKSPACE
 #    Command-line to run this workspace:
-#        "D:\Program Files\FME2018\fme.exe" C:\Users\windh2\AppData\Local\Temp\wb_publish_1560246992619_2964/Basics-Ex1-Complete.fmw
+#        "D:\Program Files\FME2018\fme.exe" C:\Users\windh2\AppData\Local\Temp\wb_publish_1560247464899_2964/Basics-Ex1-Complete.fmw
 #              --SourceDataset_GML "D:\FMEData2018\FMEData2018\Workspaces\ServerAuthoring\FireHalls.gml"
 #              --SourceDataset_OGCKML "D:\FMEData2018\FMEData2018\Workspaces\ServerAuthoring\VancouverNeighborhoods.kml"
 #    
@@ -28,7 +28,7 @@
 #!   HISTORY=""
 #!   IGNORE_READER_FAILURE="No"
 #!   LAST_SAVE_BUILD="FME(R) 2018.0.1.1 (20180615 - Build 18312 - WIN64)"
-#!   LAST_SAVE_DATE="2019-06-11T11:56:32"
+#!   LAST_SAVE_DATE="2019-06-11T12:04:24"
 #!   LOG_FILE=""
 #!   LOG_MAX_RECORDED_FEATURES="200"
 #!   MARKDOWN_DESCRIPTION=""

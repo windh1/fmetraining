@@ -1,7 +1,7 @@
 #! <?xml version="1.0" encoding="UTF-8" ?>
 #! <WORKSPACE
 #    Command-line to run this workspace:
-#        "C:\Program Files\FME\fme.exe" C:\Users\schoa2\AppData\Local\Temp\wb_publish_156024705612_9192/Basics-Ex1-Complete_AS.fmw
+#        "C:\Program Files\FME\fme.exe" C:\Users\schoa2\AppData\Local\Temp\wb_publish_1560247113575_9192/Basics-Ex1-Complete_AS.fmw
 #              --SourceDataset_GML "C:\temp\FMEData2018\FMEData2018\Workspaces\ServerAuthoring\FireHalls.gml"
 #              --SourceDataset_OGCKML "C:\temp\FMEData2018\FMEData2018\Workspaces\ServerAuthoring\VancouverNeighborhoods.kml"
 #    
@@ -12,8 +12,8 @@
 #!   DESCRIPTION=""
 #!   DESTINATION="NONE"
 #!   DESTINATION_ROUTING_FILE=""
-#!   DOC_EXTENTS="3222.26 433.501"
-#!   DOC_TOP_LEFT="100 -624.002"
+#!   DOC_EXTENTS="3222.26 1115.76"
+#!   DOC_TOP_LEFT="100 -1306.26"
 #!   END_PYTHON=""
 #!   END_TCL=""
 #!   EXPLICIT_BOOKMARK_ORDER="false"
@@ -28,7 +28,7 @@
 #!   HISTORY=""
 #!   IGNORE_READER_FAILURE="No"
 #!   LAST_SAVE_BUILD="FME(R) 2018.0.1.1 (20180615 - Build 18312 - WIN64)"
-#!   LAST_SAVE_DATE="2019-06-11T11:57:36"
+#!   LAST_SAVE_DATE="2019-06-11T11:58:33"
 #!   LOG_FILE=""
 #!   LOG_MAX_RECORDED_FEATURES="200"
 #!   MARKDOWN_DESCRIPTION=""
@@ -1140,6 +1140,19 @@
 #! <CONSTANTS>
 #! </CONSTANTS>
 #! <BOOKMARKS>
+#! <BOOKMARK
+#!   IDENTIFIER="12"
+#!   NAME="test woijziging"
+#!   DESCRIPTION=""
+#!   TOP_LEFT="652.08985423187562 -806.25806258062573"
+#!   ORDER="500000000000007"
+#!   BOTTOM_RIGHT="1402.0898542318755 -1306.2580625806258"
+#!   BOUNDING_RECT="652.08985423187562 -806.25806258062573 750 500"
+#!   STICKY="false"
+#!   COLOUR="0.94901960784313721,0.43529411764705883,0.71372549019607845"
+#!   CONTENTS=""
+#! >
+#! </BOOKMARK>
 #! </BOOKMARKS>
 #! <TRANSFORMERS>
 #! <TRANSFORMER
